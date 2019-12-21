@@ -1,35 +1,34 @@
 Chatroom System
-    By Su ZX
 =============================================
 一、运行环境
 
-Python 3.x
+    Python 3.x
 
 二、运行方法
 
-python server.py
-python client.py
+    python server.py
+    python client.py
 
 三、网络配置
 
-HOST = 127.0.0.1   # 服务器的IP地址
-POST = 8998        # 服务器使用的端口
+    HOST = 127.0.0.1   # 服务器的IP地址
+    POST = 8998        # 服务器使用的端口
 
-已在代码中完成配置，无需额外操作。
+    已在代码中完成配置，无需额外操作。
 
 四、文件目录
 
-Chatroom
-├── forms
-|   ├── __init__.py
-|   ├── login_form.py
-|   └── chat_form.py
-├── server.py
-├── client.py
-├── server_memory.py
-├── client_memory.py
-├── message.py
-└── README.md
+    Chatroom
+    ├── forms
+    |   ├── __init__.py
+    |   ├── login_form.py
+    |   └── chat_form.py
+    ├── server.py
+    ├── client.py
+    ├── server_memory.py
+    ├── client_memory.py
+    ├── message.py
+    └── README.md
 
 五、功能简介
     
